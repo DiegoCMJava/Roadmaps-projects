@@ -1,6 +1,6 @@
 
 
- [Mira los requisitos del proyecto en Roadmap](https://roadmap.sh/projects/basic-html-website)    
+ [Ejercicio Roadmap](https://roadmap.sh/projects/basic-html-website)    
  
 # Basic HTML Webside Project
 
@@ -9,6 +9,7 @@
   🛠️  
 
   ![Imagen de captura resultado](capture.png)
+
 
 
 
