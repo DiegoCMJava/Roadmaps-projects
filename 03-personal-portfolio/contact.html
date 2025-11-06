@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="Solución al proyecto Basic HTML Website de Roadmap"
+    />
+    <meta name="keywords" content="HTML, learning, Roadmap" />
+    <meta name="author" content="Diego Doe" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css">
+    <title>Basic HTML Website Personal Portfolio Contact</title>
+  </head>
+  <body>
+    <header>
+      <figure class="logo">
+        <img class="logo-img"
+        src="logo.png"
+        alt="Imagen con el logo del nombre del desarrollador Diego Doe"/>
+      </figure>
+      <nav class="nav-menu">
+        <a href="index.html">Inicio</a>
+        <a href="projects.html">Proyectos</a>
+        <a href="articles.html">Artículos</a>
+      </nav>
+      <div class="title">
+        <h1 >Desarrollador Frontend</h1>
+      <p>soluciones informáticas adaptables y con estilo</p>
+      </div>    
+    </header>
+    <main class="contact-form">
+        <h2>Escríbeme</h2>
+        <section>
+            <form action="mailto" >
+                <label for="name">Nombre:</label><br>
+                <input type="text" id="name" name="name" required placeholder="Escribe tu nombre"><br><br>
+                
+                <label for="email">Correo electrónico:</label><br>
+                <input type="email" id="email" name="email" required required placeholder="Escribe tu correo"><br><br>
+                
+                <label for="message">Mensaje:</label><br>
+                <textarea id="message" name="message" rows="4" cols="50" required placeholder="Escribe aquí tu mensaje" required></textarea><br><br>
+                
+                <input class="btn" type="submit" value="Enviar">
+                <input class="btn" type="submit" value="Cancelar">
+            </form>
+        </section>
+              
+    </main>
+    <footer style="display: block ; align-content: center; margin-top: 80px;">
+        <p>
+          &copy; todos los derechos reservados 2025
+        </p>
+      </footer>
+    </body>
+    </html>
