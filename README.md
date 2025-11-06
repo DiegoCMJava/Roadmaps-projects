@@ -1,7 +1,7 @@
 # Project Ideas
 Browse the ever-growing list of projects ideas and solutions  
 [Roadmap Projects](https://roadmap.sh/projects)  
-https://roadmap.sh/projects/basic-html-website
+https://roadmap.sh/projects/basic-html-website  
 [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 
 ## Mis soluciones
